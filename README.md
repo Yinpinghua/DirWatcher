@@ -2,3 +2,5 @@
 
 采用Qt配合VS编写。
 
+![](https://github.com/lfishRhungry/DirWatcher/blob/master/Screen%20Shot%202019-10-10%20at%2012.00.35%20AM.png)
+
