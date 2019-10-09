@@ -1,0 +1,4 @@
+同过调用ReadDirectoryChangesW这个Windows API实现对指定目录的文件操作进行监控的界面程序。
+
+采用Qt配合VS编写。
+
